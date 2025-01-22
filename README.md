@@ -36,9 +36,6 @@ The goal of this project was to simulate a real-world data science task for Brit
 - NLP-based text analysis for actionable insights.
 - Classification model with performance evaluation.
 
-## Results
-- The prediction model achieved an accuracy of XX% and an F1-score of YY%.
-- Insights from the NLP analysis revealed.
 
 ## Conclusion
 This project highlights my ability to handle a complete data science workflow, demonstrating skills in data collection, processing, and machine learning. The British Airways Job Simulation provided valuable experience in solving real-world challenges in the aviation industry.
